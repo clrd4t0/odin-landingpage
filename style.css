@@ -49,6 +49,11 @@ a {
 
 .header-links a {
     padding: 12px;
+    transition-duration: 0.4s;
+}
+
+.header-links a:hover {
+    color: #8eb4ff
 }
 
 .intro-box {
